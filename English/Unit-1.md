@@ -8,15 +8,11 @@
 
 某人强迫某人做某事时使用。
 
-<br>
-
 **Ej**：
 - Some banks **make** you pay too many bank charges.
 - 有些银行 **让(强迫)** 你支付过多的银行费用。
 
 在**被动语句**中我们需要在make后加上to。
-
-<br>
 
 **Ej:**
 - She was **made to** leave the room while the plans were discussed.
@@ -25,8 +21,6 @@
 ### Let - 让(允许)
 
 我们得到某人的许可做某事时使用。
-
-<br>
 
 **Ej:**
 - **Let** me go! I promise I won't tell anyone.
@@ -38,15 +32,11 @@ let**不能**使用在在**被动语句**中，我们要使用**be allowed to**�
 
 如果有人给予我们许可或做某事的可能性时使用。
 
-<br>
-
 **Ej:**
 - My father never **allows me** to stay out too late.
 - 我父亲从不允许我外面呆到太晚。
 
 它经常被用于**被动语句中**。这样，获得许可的人就成为了句子的主语。 
-
-<br>
 
 **Ej:**
 - You **are not allowed to** smoke in this room.
@@ -60,8 +50,6 @@ let**不能**使用在在**被动语句**中，我们要使用**be allowed to**�
 
 已经习惯于某事。
 
-<br>
-
 **Ej:**
 - Since I moved to the city, I have got used to the noise.
 - 自从搬到城里，我已经习惯了噪音。
@@ -69,8 +57,6 @@ let**不能**使用在在**被动语句**中，我们要使用**be allowed to**�
 ### Get used to
 
 正在习惯某事。
-
-<br>
 
 **Ej:**
 - I don't think I will ever get used to waking up early.
