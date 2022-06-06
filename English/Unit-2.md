@@ -33,20 +33,36 @@ tell + someone + (that) + clause
 
 sameone + aksed + someone + r.o.s(Rest of sentence)
 
+Ej:
+- "Where do you live Jphn?" asked Marry.
+- John asked Marry where she lived.
+
 ### Yes/No Question
 使用**if**或**whether**来复述。
 
 sameone + aksed + someone + if/whether + r.o.s.
 
+Ej:
+- "Did Emily go to Peter's party?" Andren asked us.
+- Andren asked us if Emily had gone to Peter's parrty.
+
 ### Request
 
 asked + subject + infinitive
+
+Ej:
+- "Can you open the door, please." The man asked.
+- The man asked me to open the door.
 
 **infinitive == (not)to + verb**
 
 ### Command
 
 told + subject + infinitive
+
+Ej:
+- "Come home early." Mum told me.
+- Mum told me to come home early.
 
 **infinitive == (not)to + verb**
 
@@ -62,6 +78,8 @@ told + subject + infinitive
 
 - say, explain, recommend(推荐), demand(要求), claim(宣称), remind(提醒)
     - verb + that + clause
+- apologise for(为...道歉), suggest(建议)
+    - verb + gerund(verb-ing)
 
 
 ### Crime(犯罪行为)
