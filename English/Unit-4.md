@@ -8,7 +8,7 @@ The Future Continuous tense is to talk about something happening at a given poin
 
 将来进行时态用于谈论将来某个特定时间点发生的事情。(它具有比未来简单式更多的确定性)
 
-- 结构: will + be + present participle
+- 结构: will + be + verb-ing
 
 ### Future Perfect
 
@@ -18,7 +18,7 @@ The future perfect used for actions that will be completed before some other poi
 
 使用它必须在句中声明时间。
 
-- 结构: will have + past participle
+- 结构: will + have + past participle
 
 ## Vocabulary
 
