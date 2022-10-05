@@ -27,7 +27,7 @@ The future perfect used for actions that will be completed before some other poi
 - a tip - 小费
 - $X off - X元折扣
 - a reward - 奖励
-- a bargain - 廉价品
+- a bargain - 便宜货
 - owe - 欠
 - a refund - 退款
 - be worth - 价值(X元)
