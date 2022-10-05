@@ -33,7 +33,7 @@ The future perfect used for actions that will be completed before some other poi
 - be worth - 价值(X元)
 - value for money - 物有所值
 - valuable - 有价值的
-- on offer - 租借
+- on offer - 促销中
 
 ### Jobs And work
 
