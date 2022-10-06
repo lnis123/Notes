@@ -8,7 +8,7 @@ The Future Continuous tense is to talk about something happening at a given poin
 
 将来进行时态用于谈论将来某个特定时间点发生的事情。(它具有比未来简单式更多的确定性)
 
-- 结构: will + be + present participle
+- 结构: will + be + verb-ing
 
 ### Future Perfect
 
@@ -18,7 +18,7 @@ The future perfect used for actions that will be completed before some other poi
 
 使用它必须在句中声明时间。
 
-- 结构: will have + past participle
+- 结构: will + have + past participle
 
 ## Vocabulary
 
@@ -27,13 +27,13 @@ The future perfect used for actions that will be completed before some other poi
 - a tip - 小费
 - $X off - X元折扣
 - a reward - 奖励
-- a bargain - 廉价品
+- a bargain - 便宜货
 - owe - 欠
 - a refund - 退款
 - be worth - 价值(X元)
 - value for money - 物有所值
 - valuable - 有价值的
-- on offer - 租借
+- on offer - 促销中
 
 ### Jobs And work
 
