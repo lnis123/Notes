@@ -4,6 +4,7 @@
 
 - [单元 1: 神经系统](./Biology/NervousSystem/神经系统.md "神经系统")
 - [单元 2: 内分泌系统](./Biology/EndocrineSystem/内分泌系统.md "内分泌系统")
+- [单元 3: 遗传](./Biology/Genetics/遗传.md "遗传")
 
 ## 英语
 
