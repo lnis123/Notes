@@ -38,7 +38,7 @@ Infinitive = to + the base form of the verb。下列这些词需要跟着inf。
 
 - decide
 
-### So / In order to / So as to
+### To / In order to / So as to
 
 我们可以用 to + infinitive来谈论目的。而且在更正式的语言或书面形式中，我们也可以使用 **in order to** 或 **so to** + infinitive。
 
