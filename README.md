@@ -5,7 +5,7 @@
 ### 政治教育
 
 - 单元 1 - 何为民主
-- [单元 2 - 正义与人权](./CritizenEducation/Justice&HumanRight/Justice&HumanRight.md)
+- [单元 2 - 正义与人权](./CitizenshipEducation/Justice&HumanRight/Justice&HumanRight.md)
 
 
 ## 2022
