@@ -54,7 +54,7 @@
 
 ## 正义之像 (Iconográfica de la justicia)
 
-<center><img src="./img/正义之像.jpg" /></center>
+<center><img src="./img/Iconográfica_de_Justicia.jpg" /></center>
 <br />
 
 **公正：看事实，不看人。**
@@ -78,7 +78,7 @@
 
 最高法院的法官由总统提名，经国会批准，他们是智利的最高裁判官。各级法院都受到最高法院的监督，以确保法律公平和正义的实施，保护国民的权益。
 
-<center><img src="./img/智利之判事构制.jpg" /></center>
+<center><img src="./img/Estructura_de_Sistema_Judicial.jpg" /></center>
 
 ## 刑事控告，诉讼与举报 (Querella, Demanda y Denuncia)
 
@@ -244,7 +244,7 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
     </tr>
 </table>
 
-<img align=center src="./img/Sistema Judicial Chilena - Antigua y Presente - 1.webp" />
+<img align=center src="./img/Sistema_Judicial Chilena-Antigua_y_Presente-1.webp" />
 <br />
 <br />
-<img align=center src="./img/Sistema Judicial Chilena - Antigua y Presente - 2.jpg" />
+<img align=center src="./img/Sistema_Judicial Chilena-Antigua_y_Presente-2.jpg" />
