@@ -94,8 +94,6 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 
 **记：送入监狱**
 
-**记：举报犯罪行为**
-
 ### 民事诉讼 (Demanda)
 
 民事诉讼(起诉)是指当事人向法院提起的正式法律诉讼，通常是为了解决争议或索赔权益。
@@ -106,6 +104,7 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 
 举报(报案)是指民众或机构向警察或相关机构报告犯罪或违法行为的行为。
 
+**记：举报犯罪行为**
 
 ## 2005年刑事诉讼改革 (Reforma Procesal Penal de 2005)
 
