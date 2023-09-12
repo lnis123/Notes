@@ -122,10 +122,9 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
 
 - 生命权 (Derecho a la Vida)
 - 荣誉权 (Derecho a la honor)
-- 自由权、安全权和个人诚信权 (Derecho a la Libertad, Seguridad e Integridad Personal
-)
+- 自由权、安全权和个人诚信权 (Derecho a la Libertad, Seguridad e Integridad Personal)
 - 言论自由权 (Derecho a la Libertad de Expresion)
-- 选择及被选择权 (Derecho a la elegir y ser elegido)
+- 选择及被选择权 (Derecho a la Elegir y Ser Elegido)
 - 申请权 (Derecho a Petición)
 - 自由迁徙权 (Derecho a Libre Tránsito)
 
@@ -136,8 +135,8 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
 - 工作权 (Derecho a la Trabajo)
 - 教育权 (Derecho a la Educacion)
 - 健康权 (Derecho a la Salud)
-- 未成年家庭的保护和援助权 (Derecho a la Protección y asistencia a los menores familias)
-- 住房权 (Derecho a la vivienda)
+- 未成年家庭的保护和援助权 (Derecho a la Protección y Asistencia a los Menores Familias)
+- 住房权 (Derecho a la Vivienda)
 
 ### 第三代：人民权利
 
@@ -148,7 +147,7 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
 - 发展权 (Derecho al Desarrollo) *注：(个人的desarrolo)*
 - 人民自决权 (Derecho a la Autodeterminacion de los Pueblos.)
 - 环境权 (Derecho al Medio Ambiente)
-- 和平权 (Derecho a la paz)
+- 和平权 (Derecho a la Paz)
 
 
 另见：[Cómo se clasifican los derechos humanos](https://www.unidiversidad.com.ar/como-se-clasifican-los-derechos-humanos)
