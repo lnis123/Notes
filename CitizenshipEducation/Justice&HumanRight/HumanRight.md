@@ -18,9 +18,9 @@
     - No Jerarquizable - 非等级
     - Imprescriptible - 非时效
     - Transnacionales - 跨国
-    - Primera Generacion
-    - Segunda Generacion
-    - Tercera Genreracion
+- Primera Generacion
+- Segunda Generacion
+- Tercera Genreracion
 
 ## 什么是人权
 
