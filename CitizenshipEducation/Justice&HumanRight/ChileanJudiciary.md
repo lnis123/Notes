@@ -22,6 +22,7 @@
 - Defensoría Penal Pública 
 - Juez de Garantía
 - El Juicio Oral
+- Tribunal colegiado
 - Recuerdo de Reparatorios
 
 ## 三权分立
@@ -115,13 +116,13 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 这是一个自主机构，具有层次性质，是智利国家机构的一部分。
 
 其职能包括：
-- 主导犯罪调查。
+- 主导犯罪调查。<br />
   Dirigir de forma exclusiva la investigacion de delitos.
-- 开展公共刑事诉讼。
+- 开展公共刑事诉讼。<br />
   Ejecer la accion penal pública.
-- 保护受害人和证人。
+- 保护受害人和证人。<br />
   Proteger a los victimas y testigo.
-- 在合适的情况下将被告送上法庭。
+- 在合适的情况下将被告送上法庭。<br />
   Llevar a los imputados a los tribunales, si corresponde.
 
 **记：负责刑事诉讼和刑事调查。分离了案件调查和审判的职能。**
@@ -137,12 +138,12 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 其使命是保护被告以及诉讼过程中其他参与者（例如证人、受害者或被告）的权利。
 
 它们的职责包括：
-- 主持口头审判准备听证会。
+- 主持口头审判准备听证会。<br />
   Dirigen los audiencias de preparación del juicio oral.
-- 决定对于检察官和辩护律师提交的调查程序授权和其他请求。
+- 决定对于检察官和辩护律师提交的调查程序授权和其他请求。<br />
   Resuelven las autorizaciones de los diligencias de investigacion y demas peticiones que le presente el fiscal y el denfensor.
     
-**记：其主要职责是监督和确保刑事程序在法律和公正的情况下进行，保护起诉过程终参与者(证人、受害者或被告)的权利，确保遵守程序性保障。**
+**记：其主要职责是监督和确保刑事程序在法律和公正的情况下进行，保护起诉过程中参与者(证人、受害者或被告)的权利，确保遵守程序性保障。**
 
 #### Tribunal Oral en lo Penal (审讯法庭)
 
@@ -152,13 +153,13 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 
 它由以下部分组成：
 
-- 由三名法官组成的合议庭，他们在整个听证会期间都出席，听证会以口头方式进行，公开进行，所有相关方都在场。
+- 由三名法官组成的合议庭，他们在整个听证会期间都出席，听证会以口头方式进行，公开进行，所有相关方都在场。<br />
   Tribunal colegiado compuesto por tres jueces presentan en toda la audiencia, que se desarrollo oralmente, en forma publica y con presencia de todas las partes.
-- 判决在同一听证会中宣布。
+- 判决在同一听证会中宣布。<br />
   La sentencia se dicta en la misma audiencia.
-- 参与听证会的有公诉机关、被告、受害人和辩护律师。
+- 参与听证会的有公诉机关、被告、受害人和辩护律师。<br />
   En la audiencia participa el ministerio publico, el acusado, la victima y el defensor.
-- 在口头审判的听证会期间，由提出的一方进行询问的证人和专家，同时由对方进行反问（矛盾原则）。
+- 在口头审判的听证会期间，由提出的一方进行询问的证人和专家，同时由对方进行反问（矛盾原则）。<br />
   Durante la audiencia del juicio oral, los testigos y peritos son interrogados por la parte que los preenta y contrainterrogados por la contrario (principio de contradiccion).
 
 **记：公开法庭，公开审讯**
@@ -170,11 +171,11 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 当在担保法官(Juez de Garantía)的批准下，起诉和被告达成一种补偿所造成损害的协议，以解决冲突。
 
 为了获得批准，其所涉及的罪行必须：
-- 所犯罪行不是故意的。
+- 所犯罪行不是故意的。<br />
   Que el hecho cometido no haya sido intencional. 
-- 所涉及的伤害没有导致受害人生病或无法工作超过30天。
+- 所涉及的伤害没有导致受害人生病或无法工作超过30天。<br />
   Que se trate de lesiones que no hayan causado a la victima enfermedad o incapacidad para trabajar por mas de 30 dias. 
-- 犯罪行为与物质财产有关。
+- 犯罪行为与物质财产有关。<br />
   Que el delito tenga relacion con bienes materales.
 
 #### 何时不适用
@@ -183,24 +184,24 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 
 #### 结果
 
-- 受害人获得了令人满意的赔偿，而被告不再承担责任。
+- 受害人获得了令人满意的赔偿，而被告不再承担责任。<br />
   La victima revibe una reparacion satisfactoria y el imputado queda libre de responsabilidad.
 
-- 在这里，国家放弃继续进行程序，而是将关注点放在满足受害人和被告的利益上。
+- 在这里，国家放弃继续进行程序，而是将关注点放在满足受害人和被告的利益上。<br />
   Aqui el estado renuncia seguir adelante con el peocedimiento, pero esta vez pone sus ojos en la satisfaccion de interes de la victima mas el del imputado.
 
-- 在这方面，一些更适用于所谓的恢复性正义的元素被提出。
+- 在这方面，一些更适用于所谓的恢复性正义的元素被提出。<br />
   En este aspecto se rescatan algunos elementos mas propios de lo que se conoce como Justicia Restaurativa.
 
 #### 益处
 
-- 更快的法律程序。
+- 更快的法律程序。<br />
   Mayor rapidez del proceso.
-- 公正性。
+- 公正性。<br />
   Imparcialidad
-- 保护受害人和被告。
+- 保护受害人和被告。<br />
   Proteccion a victimas e Imputados
-- 透明度和公开性。
+- 透明度和公开性。<br />
   Transparencia y Publicidad
 
 ## 智利司法系统：昔与今的比较
