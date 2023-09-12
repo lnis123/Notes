@@ -96,9 +96,11 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
 
 **记：送入监狱**
 
-### 民事诉讼 (Demanda)
+### 诉讼 (Demanda)
 
-民事诉讼(起诉)是指当事人向法院提起的正式法律诉讼，通常是为了解决争议或索赔权益。
+诉讼(起诉)是指当事人向法院提起的正式法律诉讼，通常是为了解决争议或索赔权益。
+
+**它可以是刑事的也可以是民事的。**
 
 **记：要求索赔**
 
