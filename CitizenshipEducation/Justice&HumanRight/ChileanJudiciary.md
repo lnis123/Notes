@@ -19,6 +19,7 @@
 - defensor - 辩护人
 - abogado - 律师
 - Ministerio Público
+- Fiscales - 检察官
 - Defensoría Penal Pública 
 - Juez de Garantía
 - El Juicio Oral
@@ -218,9 +219,9 @@ La querella es un acto Jurídica procesal que consiste en una declaracion de vol
     </tr>
     <tr>
         <td colspan="3">法官以秘密总结的形式指导调查，整个过程的所有职能都由他承担。</td>
+        <td style="width:16.7%"><b>检察官</b><br />调查，对被告提出指控并指导警方的行动</td>
         <td style="width:16.7%"><b>担保法官</b><br />确保正当程序并不侵犯个人权利。</td>
         <td style="width:16.7%"><b>公共辩护人</b><br />代表被告</td>
-        <td style="width:16.7%"><b>检察官</b><br />调查，对被告提出指控并指导警方的行动</td>
     </tr>
      <tr>
         <td style="width:50%" colspan="3"><b>程序</b><br />秘密且以书面形式</td>

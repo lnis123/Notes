@@ -53,54 +53,54 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
 
 ## 原则(Principios)
 - **渐进性 (Progresividad)**
-     - 人权的渐进性原则意味着逐步进展以实现充分遵守。
-     - Implica el gradual progreso para lograr su pleno cumplimiento
+     - 人权的渐进性原则意味着逐步进展以实现充分遵守。<br />
+       Implica el gradual progreso para lograr su pleno cumplimiento
 
 - **没有歧视 (Sin Discriminacion)**
-    - 所有人都不受任何歧视的享有人权
-    - Todas las personas disfrutan de los derechos humanos sin cualquiera discriminación.
+    - 所有人都不受任何歧视的享有人权<br />
+      Todas las personas disfrutan de los derechos humanos sin cualquiera discriminación.
 
 - **不可剥夺 (Irrenunciabilidad)**
-    - 任何人都无法将其剥夺
-    - Nadie puede suprimirse
+    - 任何人都无法将其剥夺<br />
+      Nadie puede suprimirse
 
 - **相互依存 (Interdependencia)**
-    - 不同的人权彼此相关联，互相依存。
-    - Los diferentes derechos humanos están relacionados entre sí.
+    - 不同的人权彼此相关联，互相依存。<br />
+      Los diferentes derechos humanos están relacionados entre sí.
 
 - **不可分割 (Indivisibilidad)**
-    - 人权应被视为一个整体，不可因为某些权利的实现而牺牲或忽视其他权利。
-    - Los derechos humanos deben ser considerados como un todo, y no se deben sacrificar o ignorar otros derechos debido a la realización de ciertos derechos.
+    - 人权应被视为一个整体，不可因为某些权利的实现而牺牲或忽视其他权利。<br />
+      Los derechos humanos deben ser considerados como un todo, y no se deben sacrificar o ignorar otros derechos debido a la realización de ciertos derechos.
 
 ## 特征(Caracteristicas)
 
 - **普遍性 (Universal)**
-    - 所有人都享有人权
-    - Todos tengan Derechos humanos.
+    - 所有人都享有人权<br />
+      Todos tengan Derechos humanos.
 
 - **固有性 (Innatos)**
-    - 人权是与生俱来的。 所有人与生俱来就拥有属于我们自己的权利。
-    - Todas las personas nacemos con derechos que nos pertenecen por nuestra.
+    - 人权是与生俱来的。 所有人与生俱来就拥有属于我们自己的权利。<br />
+      Todas las personas nacemos con derechos que nos pertenecen por nuestra.
 
 - **不可侵犯 (Inviolable)**
-    - 任何人都不能攻击、损害或破坏这些权利。
-    - Nadie puede atentar, lesionar o destruir dichos derechos.
+    - 任何人都不能攻击、损害或破坏这些权利。<br />
+      Nadie puede atentar, lesionar o destruir dichos derechos.
 
 - **不可转让 (Intransferible)**
-    - 人权不能从一个人转移到另一个人，因为每个人都有权力要求和享受自己的权利。
-    - Los DDHH no se pueden trasladar de una persona a otra pues cada persona tiene la facultad de exigir y disfrutar de sus derechos.
+    - 人权不能从一个人转移到另一个人，因为每个人都有权力要求和享受自己的权利。<br />
+      Los DDHH no se pueden trasladar de una persona a otra pues cada persona tiene la facultad de exigir y disfrutar de sus derechos.
 
 - **互补 (Complementario)、非等级 (No Jerarquizable)**
-    - 人权是相互关联的，因此不能将它们分开，或者有些权利比其他权利更重要。
-    -  Los derechos humanos están relacionados entre sí, de forma que no se puede hacer ninguna separación entre ellos ni pensar que algunos son más importantes que otros.
+    - 人权是相互关联的，因此不能将它们分开，或者有些权利比其他权利更重要。<br />
+       Los derechos humanos están relacionados entre sí, de forma que no se puede hacer ninguna separación entre ellos ni pensar que algunos son más importantes que otros.
 
 - **非时效 (Imprescriptible)**
-    - 人权是不受时效限制的，这意味着它们永远不会被剥夺，因为它们永远有效。
-    - Los derechos humanos son imprescriptibles, lo que quiere decir que no pueden quitárnoslos nunca porque jamás dejan de tener validez. 
+    - 人权是不受时效限制的，这意味着它们永远不会被剥夺，因为它们永远有效。<br />
+      Los derechos humanos son imprescriptibles, lo que quiere decir que no pueden quitárnoslos nunca porque jamás dejan de tener validez. 
 
 - **跨国 (Transnacionales)**
-    - 人权不仅适用于单一国家，而且在国际上被普遍承认和推崇。
-    - Los derechos humanos no sólo se aplican a un solo país, sino que generalmente son reconocidos y respetados internacionalmente.
+    - 人权不仅适用于单一国家，而且在国际上被普遍承认和推崇。<br />
+      Los derechos humanos no sólo se aplican a un solo país, sino que generalmente son reconocidos y respetados internacionalmente.
 
 ## 人权保护：
 
