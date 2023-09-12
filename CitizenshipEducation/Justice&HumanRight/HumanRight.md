@@ -1,4 +1,26 @@
-<h1 align=center>人权(Human Rights)</h1>
+<h1 align=center>人权<br />(Derecho Humano)</h1>
+
+## 关键词
+- Derecho Humano
+- Declaracion Universal de Derechos Humanos
+- Principios
+    - Progresividad - 渐进性
+    - Sin Discriminacion - 没有歧视
+    - Irrenunciabilidad - 不可剥夺
+    - Interdependencia - 相互依存
+    - Indivisibilidad - 不可分割
+- Caracteristicas
+    - Universal - 普遍性
+    - Innatos - 固有性
+    - Inviolable - 不可侵犯
+    - Intransferible - 不可转让
+    - Complementario - 互补
+    - No Jerarquizable - 非等级
+    - Imprescriptible - 非时效
+    - Transnacionales - 跨国
+    - Primera Generacion
+    - Segunda Generacion
+    - Tercera Genreracion
 
 ## 什么是人权
 
@@ -38,7 +60,7 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
     - 所有人都不受任何歧视的享有人权
     - Todas las personas disfrutan de los derechos humanos sin cualquiera discriminación.
 
-- **不可剥夺性 (Irrenunciabilidad)**
+- **不可剥夺 (Irrenunciabilidad)**
     - 任何人都无法将其剥夺
     - Nadie puede suprimirse
 
@@ -46,7 +68,7 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
     - 不同的人权彼此相关联，互相依存。
     - Los diferentes derechos humanos están relacionados entre sí.
 
-- **不可分割性 (Indivisibilidad)**
+- **不可分割 (Indivisibilidad)**
     - 人权应被视为一个整体，不可因为某些权利的实现而牺牲或忽视其他权利。
     - Los derechos humanos deben ser considerados como un todo, y no se deben sacrificar o ignorar otros derechos debido a la realización de ciertos derechos.
 
@@ -68,15 +90,15 @@ un conjunto de derechos fundamentales e inalienables que pertenecen a todas las 
     - 人权不能从一个人转移到另一个人，因为每个人都有权力要求和享受自己的权利。
     - Los DDHH no se pueden trasladar de una persona a otra pues cada persona tiene la facultad de exigir y disfrutar de sus derechos.
 
-- **互补性 (Complementario)、非等级 (No Jerarquizable)**
+- **互补 (Complementario)、非等级 (No Jerarquizable)**
     - 人权是相互关联的，因此不能将它们分开，或者有些权利比其他权利更重要。
     -  Los derechos humanos están relacionados entre sí, de forma que no se puede hacer ninguna separación entre ellos ni pensar que algunos son más importantes que otros.
 
-- **非时效性 (Imprescriptible)**
+- **非时效 (Imprescriptible)**
     - 人权是不受时效限制的，这意味着它们永远不会被剥夺，因为它们永远有效。
     - Los derechos humanos son imprescriptibles, lo que quiere decir que no pueden quitárnoslos nunca porque jamás dejan de tener validez. 
 
-- **跨国性 (Transnacionales)**
+- **跨国 (Transnacionales)**
     - 人权不仅适用于单一国家，而且在国际上被普遍承认和推崇。
     - Los derechos humanos no sólo se aplican a un solo país, sino que generalmente son reconocidos y respetados internacionalmente.
 
