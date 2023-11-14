@@ -6,6 +6,7 @@
 
 - 单元 1 - 何为民主
 - [单元 2 - 正义与人权](./CitizenshipEducation/Justice&HumanRight/Justice&HumanRight.md)
+- [单元 3 - 民主的领土组织](./CitizenshipEducation/TerritorialOrganization/TerritorialOrganization.md)
 
 
 ## 2022
