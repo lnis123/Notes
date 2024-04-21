@@ -2,6 +2,10 @@
 
 ## 2024
 
+### EDC
+- U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
+- U2. [Republica, Democracia y Sistema Electroral Chileno](./CitizenshipEducation/Republica,Democracia&SistemaElectroralChileno/Republica,Democracia&SistemaElectroralChileno.md)
+
 ### CPC
 
 - U1. [Salud Humano y Medicina](./CPC/Salud,%20Salud%20Publica%20&%20Emfermedades/Salud,%20Salud%20Publica%20&%20Emfermedades.md)
