@@ -9,6 +9,7 @@
 ### CPC
 
 - U1. [Salud Humano y Medicina](./CPC/Salud,%20Salud%20Publica%20&%20Emfermedades/Salud,%20Salud%20Publica%20&%20Emfermedades.md)
+- U2. [Prevención de Infecciones](./CPC/Prevencion-de-Infecciones/Prevencion-de-Infecciones.md)
 
 ## 2023
 
