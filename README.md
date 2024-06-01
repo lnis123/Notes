@@ -1,5 +1,17 @@
 # 笔记
 
+## Paes
+
+### Fisica Mencion
+1. [Metodo Cientifico](./paes/fisica/MetodoCientifico.md)
+2. [Magnitudes Fisicas](./paes/fisica/MagnitudesFisicas.md)
+3. [Onda](./paes/fisica/Onda.md)
+   3.1. [Luz](./paes/fisica/Luz.md)
+
+### Quimica
+
+### Biologia
+
 ## 2024
 
 ### EDC
