@@ -6,7 +6,7 @@
 1. [Metodo Cientifico](./paes/fisica/MetodoCientifico.md)
 2. [Magnitudes Fisicas](./paes/fisica/MagnitudesFisicas.md)
 3. [Onda](./paes/fisica/Onda.md)
-   3.1. [Luz](./paes/fisica/Luz.md)
+   1. [Luz](./paes/fisica/Luz.md)
 
 ### Quimica
 
@@ -17,6 +17,7 @@
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
 - U2. [Republica, Democracia y Sistema Electroral Chileno](./CitizenshipEducation/Republica,Democracia&SistemaElectroralChileno/Republica,Democracia&SistemaElectroralChileno.md)
+- U3. [Medio de Comunicacion Masivo](./CitizenshipEducation/MedioDeComunicacionMasivo/MedioDeComunicacionMasivo.md)
 
 ### CPC
 
