@@ -17,6 +17,7 @@
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
 - U2. [Republica, Democracia y Sistema Electroral Chileno](./CitizenshipEducation/Republica,Democracia&SistemaElectroralChileno/Republica,Democracia&SistemaElectroralChileno.md)
+- U3. [Medio de Comunicacion Masivo](./CitizenshipEducation/MedioDeComunicacionMasivo/MedioDeComunicacionMasivo.md)
 
 ### CPC
 
