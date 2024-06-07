@@ -7,10 +7,17 @@
 2. [Magnitudes Fisicas](./paes/fisica/MagnitudesFisicas.md)
 3. [Onda](./paes/fisica/Onda.md)
    1. [Luz](./paes/fisica/Luz.md)
+   2. [Espejo](./paes/fisica/Espejo.md)
+   3. [Lentes](./paes/fisica/lente.md)
+4. [Cinematica](./paes//fisica//Cinematica.md)
 
 ### Quimica
 
+
+
 ### Biologia
+
+
 
 ## 2024
 

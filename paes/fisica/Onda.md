@@ -8,17 +8,17 @@ Una **Perturbacion** que viaja a traves del espacio o medio elasitico transporta
 **Periodo(T) [s]**
 Tiempo que dura un ciclo
 
-**Frecuencia(f) [hz($\frac{1}{s}$)]**
+**Frecuencia(f) [ hz($\frac{1}{s}$) ]**
 Cantidad de ciclo que se producen en la unidad de tiempo.
 $$f = \frac{N.ciclo}{tiempo}$$
 
-**Amplitud(A) [m]**
+**Amplitud(A) [ m ]**
 Graficamente corresponde a **la Max. elongacion con respecto a la posicion de equilibrio**. Ademas, la amplitud esta asociada a la energia trasportada por la onda.
 
-**Longitud de Onda($\lambda$) [m]**
+**Longitud de Onda($\lambda$) [ m ]**
 Es **la distancia entre 2 puntos consecutivos** que presentan el mismo estado de presentacion.
 
-**Rapidez de Onda(v) [$\frac{m}{s}$]**
+**Rapidez de Onda(v) [ $\frac{m}{s}$ ]**
 Distancia recorrida por unidad de tiempo. Su valor numerico depende **Unicamente** de las **propiedades del medio**.
 $$v = \frac{\lambda}{T} = \lambda f$$
 
