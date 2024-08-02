@@ -9,7 +9,10 @@
    1. [Luz](./paes/fisica/Luz.md)
    2. [Espejo](./paes/fisica/Espejo.md)
    3. [Lentes](./paes/fisica/lente.md)
-4. [Cinematica](./paes//fisica//Cinematica.md)
+4. Mecanica
+   1. [Cinematica](./paes//fisica/Cinematica.md)
+   2. [Dinamica](./paes//fisica/Dinamica.md)
+   3. [Hidrostatica](./paes//fisica/Hidrostatica.md)
 
 ### Quimica
 
@@ -55,3 +58,9 @@
 - [Unit 3](./English/Unit-3.md "英语 单元3")
 - [Unit 4](./English/Unit-4.md "英语 单元4")
 - [Unit 5](./English/Unit-5.md "英语 单元5")
+
+## 备注
+
+本仓库用于保存我的电子档课程笔记，所有内容均基于老师的课堂ppt。
+
+<p xmlns:cc="http://creativecommons.org/ns#" >本作品已获得 <a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 许可<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
