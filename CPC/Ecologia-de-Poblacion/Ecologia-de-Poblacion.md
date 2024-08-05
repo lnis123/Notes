@@ -164,9 +164,9 @@ Es una Relacion que existe entre el Numero de Individuos y Tiempo.
 
 ## Regulacion y Alteracion de las Poblaciones
 
-- Facotres independiente de la densidad(Desoindependiente)
+- Facotres independiente de la densidad(Densoindependiente)
   - Factores abioticos - Alterar las poblaciones
-- Facotres dependiente de la densidad(Desodependiente)
+- Facotres dependiente de la densidad(Densodependiente)
   - Factores bioticos - Regula las poblaciones
 
 ## Estrategia de Vida
