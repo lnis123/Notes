@@ -6,16 +6,17 @@
 
 #### Fisica Mencion
 
-1. [Metodo Cientifico](./paes/fisica/MetodoCientifico.md)
-2. [Magnitudes Fisicas](./paes/fisica/MagnitudesFisicas.md)
-3. [Onda](./paes/fisica/Onda.md)
-   1. [Luz](./paes/fisica/Luz.md)
-   2. [Espejo](./paes/fisica/Espejo.md)
-   3. [Lentes](./paes/fisica/lente.md)
-4. Mecanica
-   1. [Cinematica](./paes//fisica/Cinematica.md)
-   2. [Dinamica](./paes//fisica/Dinamica.md)
-   3. [Hidrostatica](./paes//fisica/Hidrostatica.md)
+1. Introduccion a la Fisica
+   1. [Metodo Cientifico](./paes/fisica/Introduccion/MetodoCientifico.md)
+   2. [Magnitudes Fisicas](./paes/fisica/Introduccion/MagnitudesFisicas.md)
+2. [Onda](./paes/fisica/Onda/Onda.md)
+   1. [Luz](./paes/fisica/Onda/Luz.md)
+   2. [Espejo](./paes/fisica/Onda/Espejo.md)
+   3. [Lentes](./paes/fisica/Onda/lente.md)
+3. Mecanica
+   1. [Cinematica](./paes/fisica/Mecanica/Cinematica.md)
+   2. [Dinamica](./paes/fisica/Mecanica/Dinamica.md)
+   3. [Hidrostatica](./paes/fisica/Mecanica/Hidrostatica.md)
 
 #### Quimica
 #### Biologia
