@@ -55,6 +55,7 @@ Cuando 2 o mas puntos se encontra a **una misma $h$**, **las presiones** en dich
 <img src="https://www.areaciencias.com/wp-content/uploads/2021/10/demostracion-vasos-comunicantes.jpg" style="zoom: 80%"/>
 
 (Vasos Comunicantes)
+
 (Image originada de *areaciencias*: https://www.areaciencias.com/fisica/los-vasos-comunicantes/)
 
 </div>
@@ -72,6 +73,7 @@ Un mecanismo confirmado por **vasos comunicantes impulsados por pistones** de **
 <img src="https://www.uv.es/recursos/fatwirepub/ccurl/272/765/principiopascal03.jpg" style="zoom: 60%"/>
 
 (Prensa Hidraulica)
+
 (Image originada de *Universitat de València*: https://www.uv.es/uvweb/fisica/es/catalogo-demos/fluidos/principio-pascal-prensa-hidraulica-1286053998293/DemoExp.html)
 
 </div>
@@ -93,6 +95,7 @@ Cuando sumergimos un cuerpo solido enun liquido, este ejerce sobre el cuerpo una
 <img src="https://www.alonsoformula.com/FQESO/images/fluidos_empuje_1.gif" style="zoom: 50%"/>
 
 (Prensa Hidraulica)
+
 (Image originada de *alonsoformula*: https://www.alonsoformula.com/FQESO/4_9__fluidos.htm)
 
 </div>
@@ -120,6 +123,7 @@ $E = P$, $\rho_{cuerpo} = \rho_{liquido}$
 <img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_2.gif" style="zoom: 50%"/>
 
 (Principio de Arquimedes)
+
 (Image originada de *alonsoformula*: https://www.alonsoformula.com/FQESO/4_9__fluidos.htm)
 
 </div>
