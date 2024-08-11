@@ -21,7 +21,7 @@
 #### Quimica
 
 1. Estructura Atomica
-   1. [Modelo Atomica](./quimica/Estructura_Atomica/ModeloAtomica.md)
+   1. [Modelo Atomico](./quimica/Estructura_Atomica/ModeloAtomico.md)
    2. [Organizacion de Table Periodica](./quimica/EstructuraAtomica/Table_Periodica)
    3. [Enlace Atomica](./quimica/EstructuraAtomica/EnlaceAtomica.md)
 2. [Quimica Ambiental](./quimica/QuimicaAmbiental/)
