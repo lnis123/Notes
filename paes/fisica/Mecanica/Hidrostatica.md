@@ -52,7 +52,7 @@ Cuando 2 o mas puntos se encontra a **una misma $h$**, **las presiones** en dich
 
 <div align="center">
 
-<img src="https://www.areaciencias.com/wp-content/uploads/2021/10/demostracion-vasos-comunicantes.jpg" style="zoom: 80%"/>
+<img src="https://www.areaciencias.com/wp-content/uploads/2021/10/demostracion-vasos-comunicantes.jpg" height=80% width=80%/>
 
 (Vasos Comunicantes)
 
@@ -70,7 +70,7 @@ Un mecanismo confirmado por **vasos comunicantes impulsados por pistones** de **
 
 <div align="center">
 
-<img src="https://www.uv.es/recursos/fatwirepub/ccurl/272/765/principiopascal03.jpg" style="zoom: 60%"/>
+<img src="https://www.uv.es/recursos/fatwirepub/ccurl/272/765/principiopascal03.jpg" height=60% widht=60%/>
 
 (Prensa Hidraulica)
 
@@ -92,7 +92,7 @@ Cuando sumergimos un cuerpo solido enun liquido, este ejerce sobre el cuerpo una
 
 <div align="center">
 
-<img src="https://www.alonsoformula.com/FQESO/images/fluidos_empuje_1.gif" style="zoom: 50%"/>
+<img src="https://www.alonsoformula.com/FQESO/images/fluidos_empuje_1.gif" height=50% width=50%/>
 
 (Prensa Hidraulica)
 
@@ -112,15 +112,15 @@ $$|\vec{E}| = |\vec{P_{desp}}| = m_{desp} \cdot |\vec{g}| \\ = \rho_{liquido} \c
 
 $E < P$, $\rho_{cuerpo} > \rho_{liquido}$
 
-<img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_1.gif" style="zoom: 50%"/>
+<img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_1.gif" height=50% width=50%/>
 
 $E > P$, $\rho_{cuerpo} < \rho_{liquido}$, Flota
 
-<img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_3.gif" style="zoom: 50%"/>
+<img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_3.gif" height=50% width=50%/>
 
 $E = P$, $\rho_{cuerpo} = \rho_{liquido}$
 
-<img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_2.gif" style="zoom: 50%"/>
+<img src="https://www.alonsoformula.com/FQESO/images/fluidos_flotacion_2.gif" height=50% width=50%/>
 
 (Principio de Arquimedes)
 
