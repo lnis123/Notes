@@ -22,9 +22,9 @@
 
 1. Estructura Atomica
    1. [Modelo Atomico](./quimica/Estructura_Atomica/ModeloAtomico.md)
-   2. [Organizacion de Table Periodica](./quimica/EstructuraAtomica/Table_Periodica)
-   3. [Enlace Atomica](./quimica/EstructuraAtomica/EnlaceAtomica.md)
-2. [Quimica Ambiental](./quimica/QuimicaAmbiental/)
+   2. [Organizacion de Table Periodica](./quimica/Estructura_Atomica/TablePeriodica.md)
+   3. [Enlace Atomica](./quimica/Estructura_Atomica/EnlaceAtomica.md)
+2. [Quimica Ambiental](./quimica/Quimica_Ambiental/QuimicaAmbiental.md)
 3. Estequiometria
    1. [Estequiometria](./quimica/Estequiometria/Estequiometria.md)
    2. Disoluciones
