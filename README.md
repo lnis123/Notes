@@ -19,7 +19,24 @@
    3. [Hidrostatica](./paes/fisica/Mecanica/Hidrostatica.md)
 
 #### Quimica
+
+1. Estructura Atomica
+   1. [Modelo Atomica](./quimica/Estructura_Atomica/ModeloAtomica.md)
+   2. [Organizacion de Table Periodica](./quimica/EstructuraAtomica/Table_Periodica)
+   3. [Enlace Atomica](./quimica/EstructuraAtomica/EnlaceAtomica.md)
+2. [Quimica Ambiental](./quimica/QuimicaAmbiental/)
+3. Estequiometria
+   1. [Estequiometria](./quimica/Estequiometria/Estequiometria.md)
+   2. Disoluciones
+
 #### Biologia
+
+1. Organizacion, Estructura y Actividad Celular
+   1. Teoria Celular
+   2. Biomolecula
+   3. Fisiologia Celular
+2. Herencia
+   1. Reproduccion Celular
 
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
