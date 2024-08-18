@@ -92,7 +92,7 @@ Cuando sumergimos un cuerpo solido enun liquido, este ejerce sobre el cuerpo una
 
 <div align="center">
 
-<img src="https://www.alonsoformula.com/FQESO/images/fluidos_empuje_1.gif" height=40% width=40%/>
+<img src="https://www.alonsoformula.com/FQESO/images/fluidos_empuje_1.gif" height=254 width=186/>
 
 (Prensa Hidraulica)
 
