@@ -52,13 +52,11 @@ Nucleo: Positivo, Masa
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Modelo_de_Bohr.png
-" height=40% width=40% />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Modelo_de_Bohr.png" height=40% width=40% />
 
 (Modelo Atomico Estacionario)
 
-(Image originada de *WikiPedia*: https://es.wikipedia.org/wiki/Archivo:Modelo_de_Bohr.png
-)
+(Image originada de *WikiPedia*: https://es.wikipedia.org/wiki/Archivo:Modelo_de_Bohr.png)
 
 </div>
 
@@ -96,8 +94,7 @@ Proton:
 
 <div align="center">
 
-<img src="https://cdn.kastatic.org/ka-perseus-images/c11511c1e97f6a30de55c736e7d9fdd5ad16a2f8.png
-" height=90% width=90% />
+<img src="https://cdn.kastatic.org/ka-perseus-images/c11511c1e97f6a30de55c736e7d9fdd5ad16a2f8.png" height=90% width=90% />
 
 (Modelo Atomico Estacionario)
 

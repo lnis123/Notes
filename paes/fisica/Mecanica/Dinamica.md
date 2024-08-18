@@ -43,7 +43,7 @@ Un instrumento en forma de disco por el cual puede pasar una cuerda. El objetivo
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Polea-simple-fija.jpg" height=50% width=50%/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Polea-simple-fija.jpg" height=30% width=30%/>
 
 (Polea simple fija)
 
@@ -145,7 +145,7 @@ Consiste en **2 masas conectadas** por una **cuerda inelastica** de masa desprec
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Máquina_de_Atwood_33.svg" height=70% widht=70% />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Máquina_de_Atwood_33.svg" height=50% widht=50% />
 
 (Maquina de ATWOOD)
 
@@ -164,7 +164,7 @@ Si 2 o mas cuerpos que **se mueven juntos por medio de la union de una cuerda** 
 
 <div align="center">
 
-<img src="https://www.esaral.com/media/uploads/2021/04/word-image-77.png" height=150% width=150% />
+<img src="https://www.esaral.com/media/uploads/2021/04/word-image-77.png" height=50% width=50% />
 
 (Cuerpos Vinculados)
 
@@ -186,7 +186,7 @@ Se pregunta, el Paes aparente de una persona que se encuentra encima de una basc
 
 <div align="center">
 
-<img src="https://ricuti.com.ar/no_me_salen/dinamica/img_din/gr_da_20_1.gif" height=80% width=80% />
+<img src="https://ricuti.com.ar/no_me_salen/dinamica/img_din/gr_da_20_1.gif" height=75% width=75% />
 
 (Problema de Ascensor)
 
@@ -195,6 +195,6 @@ Se pregunta, el Paes aparente de una persona que se encuentra encima de una basc
 </div>
 
 1) $P - F_{e1} = ma => F_{e1} = p - ma$
-    1.1) $F_{e1} = 0 => a = g$, Caida Libre
+    1) $F_{e1} = 0 => a = g$, Caida Libre
 2) $F_{e2} - P = 0 => F_{e1} = P$
 3) $F_{e3} - P = ma => F_{e1} = P + ma$
