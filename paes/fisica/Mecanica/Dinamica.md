@@ -43,9 +43,10 @@ Un instrumento en forma de disco por el cual puede pasar una cuerda. El objetivo
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Polea-simple-fija.jpg" style="zoom: 50%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Polea-simple-fija.jpg" height=50% width=50%/>
 
 (Polea simple fija)
+
 (Image originada de *wikipedia*: https://es.wikipedia.org/wiki/Archivo:Polea-simple-fija.jpg)
 
 </div>
@@ -86,9 +87,10 @@ $$|\vec{f_{fc}}| = \mu_e \cdot |\vec{N}|$$
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Fricci%C3%B3n_00.svg" style="zoom: 30%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Fricci%C3%B3n_00.svg" height=30% width=30% />
 
 (Grafico de la Fuerza Roce)
+
 (Image originada de *wikipedia*: https://es.wikipedia.org/wiki/Archivo:Fricci%C3%B3n_00.svg)
 
 </div>
@@ -143,9 +145,10 @@ Consiste en **2 masas conectadas** por una **cuerda inelastica** de masa desprec
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Máquina_de_Atwood_33.svg" style="zoom: 70%"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Máquina_de_Atwood_33.svg" height=70% widht=70% />
 
 (Maquina de ATWOOD)
+
 (Image originada de *wikipedia*: https://es.wikipedia.org/wiki/Archivo:M%C3%A1quina_de_Atwood_33.svg)
 
 </div>
@@ -161,9 +164,10 @@ Si 2 o mas cuerpos que **se mueven juntos por medio de la union de una cuerda** 
 
 <div align="center">
 
-<img src="https://www.esaral.com/media/uploads/2021/04/word-image-77.png" style="zoom: 150%"/>
+<img src="https://www.esaral.com/media/uploads/2021/04/word-image-77.png" height=150% width=150% />
 
 (Cuerpos Vinculados)
+
 (Image originada de *esaral*: https://www.esaral.com/motion-of-bodies-connected-by-strings/)
 
 </div>
@@ -182,9 +186,10 @@ Se pregunta, el Paes aparente de una persona que se encuentra encima de una basc
 
 <div align="center">
 
-<img src="https://ricuti.com.ar/no_me_salen/dinamica/img_din/gr_da_20_1.gif" style="zoom: 80%"/>
+<img src="https://ricuti.com.ar/no_me_salen/dinamica/img_din/gr_da_20_1.gif" height=80% width=80% />
 
 (Problema de Ascensor)
+
 (Image originada de *ricuti*: https://ricuti.com.ar/no_me_salen/dinamica/dN5_07.html)
 
 </div>

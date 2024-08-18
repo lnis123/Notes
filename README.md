@@ -19,12 +19,30 @@
    3. [Hidrostatica](./paes/fisica/Mecanica/Hidrostatica.md)
 
 #### Quimica
+
+1. Estructura Atomica
+   1. [Modelo Atomico](./quimica/Estructura_Atomica/ModeloAtomico.md)
+   2. [Organizacion de Table Periodica](./quimica/Estructura_Atomica/TablePeriodica.md)
+   3. [Enlace Atomica](./quimica/Estructura_Atomica/EnlaceAtomica.md)
+2. [Quimica Ambiental](./quimica/Quimica_Ambiental/QuimicaAmbiental.md)
+3. Estequiometria
+   1. [Estequiometria](./quimica/Estequiometria/Estequiometria.md)
+   2. Disoluciones
+
 #### Biologia
+
+1. Organizacion, Estructura y Actividad Celular
+   1. Teoria Celular
+   2. Biomolecula
+   3. Fisiologia Celular
+2. Herencia
+   1. Reproduccion Celular
 
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
 - U2. [Republica, Democracia y Sistema Electroral Chileno](./CitizenshipEducation/Republica,Democracia&SistemaElectroralChileno/Republica,Democracia&SistemaElectroralChileno.md)
 - U3. [Medio de Comunicacion Masivo](./CitizenshipEducation/MedioDeComunicacionMasivo/MedioDeComunicacionMasivo.md)
+- U4. [Problematica Sociales en Chile](./CitizenshipEducation/ProblematicaSocialesEnChile/ProblematicaSocialesEnChile.md)
 
 ### CPC
 
