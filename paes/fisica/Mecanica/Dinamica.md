@@ -186,7 +186,7 @@ Se pregunta, el Paes aparente de una persona que se encuentra encima de una basc
 
 <div align="center">
 
-<img src="https://ricuti.com.ar/no_me_salen/dinamica/img_din/gr_da_20_1.gif" height=75% width=75% />
+<img src="https://ricuti.com.ar/no_me_salen/dinamica/img_din/gr_da_20_1.gif" height=165 width=250 />
 
 (Problema de Ascensor)
 
