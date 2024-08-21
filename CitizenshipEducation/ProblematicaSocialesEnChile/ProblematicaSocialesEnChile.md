@@ -36,13 +36,13 @@ La pobreza es muy notable entre los problemas sociales en Chile ya que **1/4 de 
 
 贫困在智利的社会问题中非常显著，因为到2013年，**四分之一的人口生活在贫困线以下**，尤其是在农村地区。还有令人担忧的**儿童营养不良**，甚至在城市地区也不例外。
 
-Cepal: Pobreza en Chile subio a 14,2% en 2020 **por pandemia**, pero sigue como **la segunda menor de la region**. El aumento de 3,5 puntos porcentuales es similar el exprimento en pobreza extrema, la que llega a 4,5%. En tanto, la desigualdad medida en coeficiente Gini aumento 4,6%, segun el organismo multilateral.
+**Cepal(La Comisión Económica para América Latina)**: Pobreza en Chile subio a 14,2% en 2020 **por pandemia**, pero sigue como **la segunda menor de la region**. El aumento de 3,5 puntos porcentuales es similar el exprimento en pobreza extrema, la que llega a 4,5%. En tanto, la desigualdad medida en coeficiente Gini aumento 4,6%, segun el organismo multilateral.
 
-Cepal报告称，**由于疫情**，智利的贫困率在2020年上升至14.2%，**但仍然是该地区第二低的国家**。3.5个百分点的增长与极端贫困的增长相似，极端贫困率达到了4.5%。与此同时，按基尼系数衡量的不平等程度增加了4.6%，这是该多边组织（organismos multilaterales）的数据显示的结果。
+**Cepal(La Comisión Económica para América Latina)**报告称，**由于疫情**，智利的贫困率在2020年上升至14.2%，**但仍然是该地区第二低的国家**。3.5个百分点的增长与极端贫困的增长相似，极端贫困率达到了4.5%。与此同时，按基尼系数衡量的不平等程度增加了4.6%，这是该多边组织（organismos multilaterales）的数据显示的结果。
 
-Encuensta CASEN(Caracterizacion Socioeconomico):
-- < 2 Canasta, $160.000, Pobreza
-- < 1 Canasta, $80.000, Extrema Pobreza
+**Encuensta CASEN**(Caracterizacion Socioeconomico):
+- < **2 Canasta**, $160.000, Pobreza
+- < **1 Canasta**, $80.000, Extrema Pobreza
 
 ### Que es la Pobreza（是什么贫困）
 
