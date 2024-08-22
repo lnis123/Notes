@@ -137,6 +137,7 @@ El sistema de Salud Chileno esta compuesto por **un sistema mixto** de atension 
 Afiliados:
 - **ISAPRE(Instituciones de Salud Previsional)**: 20%
 - **FONASA(Fondo Nacional de Salud)**: 75%
+
 **Cotizacion**:
 - Hombre: 7%
 - Mujer: 8% <- Un discriminacion (por pre-post natal)
@@ -144,6 +145,7 @@ Afiliados:
 附属机构：
 - **ISAPRE（养老金健康机构）**：20%
 - **FONASA（国家健康基金）**：75%
+
 **价格**：
 - 男性：7%
 - 女性：8% <- 歧视（由于产前产后）
