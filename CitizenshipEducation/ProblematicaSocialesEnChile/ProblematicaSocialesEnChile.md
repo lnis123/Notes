@@ -123,3 +123,36 @@ Educacion:
   - Privado - 15%
   - Mixta(subvencional) - 20%
   - Publico - 65%
+
+## Sistema de Salud Deteriorado
+
+**La falta de atension medica publica suficiente** es otro asunto grave que afecta, sobre todo, **a los estratos medios y bajos** de la ciudadania.
+
+**缺乏足够的公共医疗服务**是另一个严重问题，首先影响到公民的**中下层**。
+
+El sistema de Salud Chileno esta compuesto por **un sistema mixto** de atension integrado por el Seguro Publico, que se denomina **FONASA**, que es el **Fondo Nacional de Salud**, y uno privado denomino **ISAPRE, Instituciones de Salud Previsional(Privado)**.
+
+智利的卫生系统由**混合护理系统**组成，其中包括公共保险（称为 **FONASA**，即 **国家健康基金**）和私人保险（称为 **） ISAPRE，养老金健康机构（私人）**。
+
+Afiliados:
+- **ISAPRE(Instituciones de Salud Previsional)**: 20%
+- **FONASA(Fondo Nacional de Salud)**: 75%
+**Cotizacion**:
+- Hombre: 7%
+- Mujer: 8% <- Un discriminacion (por pre-post natal)
+
+附属机构：
+- **ISAPRE（养老金健康机构）**：20%
+- **FONASA（国家健康基金）**：75%
+**价格**：
+- 男性：7%
+- 女性：8% <- 歧视（由于产前产后）
+
+
+Problematicas:
+1. **Discriminacion a la mujer** <- Cotizacion
+2. Tanto el publico como el privado tienen una **calidad muy bieno**, sin embargo en publico(donde hay gran parte de la poblacion) hay **falta de acceso, por mucho demanda**.
+
+主要问题：
+1. **对女性的歧视** <- 价格
+2. 公共和私人都具有**非常好的质量**，但是公共场所（人口占很大一部分）**存在由于大量需求，而导致缺乏供给**。
