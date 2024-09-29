@@ -54,6 +54,8 @@
 - U1. [Salud Humano y Medicina](./CPC/Salud,%20Salud%20Publica%20&%20Emfermedades/Salud,%20Salud%20Publica%20&%20Emfermedades.md)
 - U2. [Prevención de Infecciones](./CPC/Prevencion-de-Infecciones/Prevencion-de-Infecciones.md)
 - U3. [Ecologia de Poblacion](./CPC/Ecologia-de-Poblacion/Ecologia-de-Poblacion.md)
+- U4. [Ecologia de Comunidad](./CPC/Ecologia-de-Poblacion/Ecologia-de-Comunidad.md)
+- U5. [Metodo Cientifico](./CPC/Ecologia-de-Poblacion/Metodo-Cientifico.md)
 
 ## 2023
 
