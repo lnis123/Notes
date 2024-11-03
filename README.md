@@ -50,7 +50,7 @@
 3. Ecologia
 4. Procesos y Funciones Biologicas
    1. [Sistema Endocrina](./paes/biologia/P.F.Biologicas/SistemaEdocrina.md)
-   2. [Hormona y Sexualidad](./paes/biologia/P.F.Biologicas/Hormona,Sexualidad.md)
+   2. [Hormona y Sexualidad](./paes/biologia/P.F.Biologicas/Hormona&Sexualidad.md)
 
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
