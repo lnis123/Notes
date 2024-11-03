@@ -111,7 +111,7 @@ Se dividen en:
 **Liso(sin Ribosoma)**
 
 - **Forma nueva membrana**
-- Eliminar toxina(desarrollado en Higado)
+- Eliminar toxina(desarrollado en Higado, Hepatocito)
 - Almacena Calcio(Solo calulas Musculares)
 - Particupa en el glucogenesis(Agrega hidrato de carbono)
 
