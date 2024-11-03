@@ -17,6 +17,10 @@
    1. [Cinematica](./paes/fisica/Mecanica/Cinematica.md)
    2. [Dinamica](./paes/fisica/Mecanica/Dinamica.md)
    3. [Hidrostatica](./paes/fisica/Mecanica/Hidrostatica.md)
+4. Energia
+   1. [Ciencia de la Tierra]
+   2. El Clima y Tiempo Atmosferico
+   3. Recursos Energeticos
 
 #### Quimica
 
@@ -40,8 +44,13 @@
       1. [Estructura Celular](./paes/biologia/O.E.A.Celelar/EstructuraCelular.md)
       2. [Actividad Celular](./paes/biologia/O.E.A.Celelar/ActividadCelular.md)
       3. [Celulas Especializadas](./paes/biologia/O.E.A.Celelar/CelulasEspecializadas.md)
-2. Herencia
+2. Herencia y Evolucion
    1. Reproduccion Celular
+   2. Evolucion
+3. Ecologia
+4. Procesos y Funciones Biologicas
+   1. [Sistema Endocrina](./paes/biologia/P.F.Biologicas/SistemaEdocrina.md)
+   2. [Hormona y Sexualidad](./paes/biologia/P.F.Biologicas/Hormona,Sexualidad.md)
 
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
