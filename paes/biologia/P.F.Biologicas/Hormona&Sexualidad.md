@@ -73,7 +73,7 @@ La LH reanuda la meiosis del ovocito hasta convertirse en ovocito secundario en 
 
 <div align="center">
 
-<img src="http://www.facultad.efn.uncor.edu/webs/departamentos/divbioeco/anatocom/Biologia/Index_archivos/reproductor/ciclo1.jpg" height=100% width=100% />
+<img src="http://www.facultad.efn.uncor.edu/webs/departamentos/divbioeco/anatocom/Biologia/Index_archivos/reproductor/ciclo1.jpg" height=60% width=60% />
 
 (Ciclo Menstrual)
 
