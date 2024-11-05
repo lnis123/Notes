@@ -45,8 +45,9 @@
       2. [Actividad Celular](./paes/biologia/O.E.A.Celelar/ActividadCelular.md)
       3. [Celulas Especializadas](./paes/biologia/O.E.A.Celelar/CelulasEspecializadas.md)
 2. Herencia y Evolucion
-   1. Reproduccion Celular
-   2. Evolucion
+   1. [Nucleo](./paes/biologia/Herencia&Evolucion/Nucleo.md)
+   2. Reproduccion Celular
+   3. Evolucion
 3. Ecologia
 4. Procesos y Funciones Biologicas
    1. [Sistema Endocrina](./paes/biologia/P.F.Biologicas/SistemaEdocrina.md)

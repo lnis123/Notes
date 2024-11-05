@@ -184,7 +184,7 @@ Usa moleculas inogrnicas y luz **forma moleculas organicas**.
 
 ##### Nucleo
 
-##TODO
+see [Nucleo](./paes/biologia/Herencia&Evolucion/Nucleo.md)
 
 #### Estructuras Subcelulares o No Membranosas
 
