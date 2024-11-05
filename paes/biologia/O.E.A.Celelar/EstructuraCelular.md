@@ -248,7 +248,9 @@ Darle **estabilidad** a la célula, le dan la **estructura** y el **movimiento**
 - **Distribucion espacial de organelos**
 - **Translacion de vacuolos**.
 
-Los flagelos son estructuras membranosas que permite el **desplazamiento de una celula**. Los cilios ademas de su funcion en **desplazamiento celular**, tambien en **movilizar sustancias de la supercie celular**.
+Los **flagelos** son estructuras membranosas que permite el **desplazamiento de una celula**.
+
+Los **cilios** ademas de su funcion en **desplazamiento celular**, tambien en **movilizar sustancias de la supercie celular**.
 
 **Filamento Intermedio**
 
