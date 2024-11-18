@@ -68,12 +68,12 @@ Formada por:
 
 Formada por:
 - Lipidos: 
-  - Fosfolipido
-  - Colestrol: Proviene el condesamiento del membrana
-- Proteinas: Otorganfuncionalidad a la membrana
+  - **Fosfolipido**
+  - **Colestrol**: Proviene el condesamiento del membrana
+- **Proteinas**: Otorganfuncionalidad a la membrana
   - Intrinsecas o Integrales(Altraviesa bicapa lipidica)
   - Extrinseca o Peritericas(Fuera de bicapa lipidica)
-- Hidratos de Carbono: Oligosacaridos(Solo Animales).
+- **Hidratos de Carbono**: Oligosacaridos(Solo Animales).
 
 ##### Comunicacion celular
 
@@ -115,7 +115,7 @@ Se dividen en:
 - Almacena Calcio(Solo calulas Musculares)
 - Particupa en el glucogenesis(Agrega hidrato de carbono)
 
-Muy desarrollado en fligado, gónadas, musculo esqueletico.
+Muy desarrollado en **fligado**, **gónadas**, **musculo esqueletico**.
 
 **Rugoso(con Ribosoma)**
   
@@ -132,6 +132,8 @@ Muy desarrollado en fligado, gónadas, musculo esqueletico.
 - **Formacion de lisosomas y vacuolas de secrecion**
 - **Formacion de la pared celular** primaria en celulas vegetales durante la division celular(Fragmoplasto)
 - Forma acrosoma(En cabeza de espermatozoide, contiene enzima para fecundacion)
+
+Muy desarrollado en **Glandulas**
 
 **Recorrido de un proteina de exportacion**
 
@@ -184,7 +186,7 @@ Usa moleculas inogrnicas y luz **forma moleculas organicas**.
 
 ##### Nucleo
 
-##TODO
+see [Nucleo](/paes/biologia/Herencia&Evolucion/Nucleo.md)
 
 #### Estructuras Subcelulares o No Membranosas
 
