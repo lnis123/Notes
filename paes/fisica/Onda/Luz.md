@@ -14,7 +14,7 @@ Naturaleza de la luz:
 
 ### Reflexion
 
-- Especular(Plano): viene palalero, fue paralero
+- Especular(Plano): viene paralelo, fue paralelo
 - Esfusa(Irregular): Refleja con distinto direccion
 
 ### Refraccion
