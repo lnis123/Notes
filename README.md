@@ -18,9 +18,12 @@
    2. [Dinamica](./paes/fisica/Mecanica/Dinamica.md)
    3. [Hidrostatica](./paes/fisica/Mecanica/Hidrostatica.md)
 4. Energia
-   1. [Ciencia de la Tierra]
-   2. El Clima y Tiempo Atmosferico
-   3. Recursos Energeticos
+   1. [Ciencia de la Tierra](./paes/fisica/Energia/Tierra.md)
+   2. [Atmosfera](./paes/fisica/Energia/Atmosfera.md)
+   3. [Recursos Energeticos](./paes/fisica/Energia/RecursosEnergeticos.md)
+5. Electricidad
+   1. [Concepto Basico](./paes/fisica/Electricidad/Conceptos.md)
+   2. [Circuitos](./paes/fisica/Electricidad/Circuitos.md)
 
 #### Quimica
 
@@ -52,6 +55,7 @@
 4. Procesos y Funciones Biologicas
    1. [Sistema Endocrina](./paes/biologia/P.F.Biologicas/SistemaEdocrina.md)
    2. [Hormona y Sexualidad](./paes/biologia/P.F.Biologicas/Hormona&Sexualidad.md)
+   3. [Inmunologia](./paes/biologia/P.F.Biologicas/Inmunologia.md)
 
 ### EDC
 - U1. [Estado y Mercado](./CitizenshipEducation/Estado&Mercado/Estado&Mercado.md)
