@@ -43,7 +43,7 @@ Gracias a el, la Teperatura media de la atmosfera cerca del suelo se ha mantenid
 - Vapor de Agua: Evaporacion
 - Disxido de Carbono: Quema de petroleo, gas y maderas
 - Ozono: combustion de carburantes fosiles.
-- PFC
+- PFC y SF
 
 #### Calentamiento Global
 
