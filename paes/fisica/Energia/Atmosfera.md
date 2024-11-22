@@ -43,6 +43,7 @@ Gracias a el, la Teperatura media de la atmosfera cerca del suelo se ha mantenid
 - Vapor de Agua: Evaporacion
 - Disxido de Carbono: Quema de petroleo, gas y maderas
 - Ozono: combustion de carburantes fosiles.
+- PFC
 
 #### Calentamiento Global
 
@@ -58,7 +59,7 @@ El aumento se debe el aumento de concentracion de gases invernadero.
 - Vapor de agua: fuente importante de aumento de la temperatura del planeta, pero tambien la responsable de la formacion de nubes y precipitaciones.
 - Dixido de Carbono: liberado de la respiracion y las erupciones volcanes.
 - Radiacion Solar
-- PFC
+
 
 **Causas Atropogenica**
 
