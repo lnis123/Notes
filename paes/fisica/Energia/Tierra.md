@@ -255,7 +255,7 @@ Abertura por donde el magma procedente del interior de la Tierra.
 
 <div align="center">
 
-<img src="https://cdn0.ecologiaverde.com/es/posts/5/8/5/partes_de_un_volcan_3585_orig.jpg" height=100% width=100% />
+<img src="https://cdn0.ecologiaverde.com/es/posts/5/8/5/camara_magmatica_3585_0_600.webp" height=100% width=100% />
 
 (Ciclo Lítico y Ciclo Lisogenico)
 
